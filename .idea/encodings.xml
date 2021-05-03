@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data_ready/1-all-movies/code/movies/movies-2016.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_ready/1-all-movies/code/movies/movies-2017.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_ready/3-douban-pingjiaxingshu/code/ratings.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_ready/3-douban-pingjiaxingshu/code/weighted_ratings.txt" charset="GBK" />
+  </component>
+</project>
